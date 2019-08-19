@@ -1,4 +1,6 @@
-{ " ticket " : [
+{ 
+  
+  " ticket " : [
   {"id": 1, "tIncidente": 1, "mAlta": 1, "status": 1,  "clienteId": 101, "dateIn": "'2019/08/13 10:14:23'",
    "dateFn": "'2019/08/13 21:14:23'"}
    {"id": 2, "tIncidente": 2, "mAlta": 2, "status": 1,  "clienteId": 101, "dateIn": "'2019/08/13 09:14:23'",
@@ -18,18 +20,12 @@
    {"id": 9, "tIncidente": 1, "mAlta": 1, "status": 1,  "clienteId": 102, "dateIn": "'2019/08/13 10:14:23'",
    "dateFn": "'2019/08/13 21:14:23'"}
    {"id": 10, "tIncidente": 1, "mAlta": 1, "status": 1,  "clienteId": 102, "dateIn": "'2019/08/13 10:14:23'",
-   "dateFn": "'2019/08/15 11:14:23'"}] ,
-  
-  
-  
+   "dateFn": "'2019/08/15 11:14:23'"}] ,  
   
   " Cliente" : [
     { " idCliente": 101 , " Nombre " : "Patricia", "CuentaSaldo": 00.1} ,
     { " idCliente": 102 , " Nombre " : " Octavio ", "CuentaSaldo": 00.1} ,
     { " idCliente": 103 , " Nombre " : " Claudio ", "CuentaSaldo": 00.1} 
-  ],
-
-  " perfil " : {
-    " nombre " : " tipicode "
-  }
+  ]
+ 
 }
