@@ -1,2 +1,0 @@
-# global
-json datos prueba
